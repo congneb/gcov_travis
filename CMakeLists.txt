@@ -7,3 +7,4 @@ set(CMAKE_CXX_STANDARD 17)
 add_executable(coverage_test1 src/lib.cpp src/test1.cpp)
 add_executable(coverage_test2 src/lib.cpp src/test2.cpp)
 
+#######
